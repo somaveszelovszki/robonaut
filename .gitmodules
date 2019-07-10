@@ -7,3 +7,6 @@
 [submodule "car"]
 	path = car
 	url = git@github.com:somaveszelovszki/robonaut2020-car.git
+[submodule "micro-utils"]
+	path = micro-utils
+	url = git@github.com:somaveszelovszki/micro-utils.git
