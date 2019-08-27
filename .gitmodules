@@ -4,9 +4,9 @@
 [submodule "line-detector-stm32"]
 	path = line-detector-stm32
 	url = git@github.com:somaveszelovszki/line-detector-stm32.git
-[submodule "car"]
-	path = car
-	url = git@github.com:somaveszelovszki/robonaut2020-car.git
 [submodule "micro-utils"]
 	path = micro-utils
 	url = git@github.com:somaveszelovszki/micro-utils.git
+[submodule "car-stm32"]
+	path = car-stm32
+	url = git@github.com:somaveszelovszki/car-stm32.git
